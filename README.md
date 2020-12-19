@@ -1,2 +1,2 @@
 # NetworkSimulation
-![Network Simulation Diagram](../Screenshots/NetworkSimulationDiagram.jpg?raw=true "Network Simulation Diagram")
+![Network Simulation Diagram](https://github.com/prakshalt/NetworkSimulation/blob/main/Screenshots/NetworkSimulationDiagram.png "Network Simulation Diagram")
